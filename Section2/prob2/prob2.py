@@ -11,3 +11,4 @@ for i in range(T):
 
     print(f"#{i+1} {a[k-1]}")
 
+ 
