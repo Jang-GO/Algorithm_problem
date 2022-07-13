@@ -11,3 +11,5 @@ Section6 : 완전탐색(백트랙킹, 상태트리와 CUT EDGE) DFS 기초)
 Section7 : 깊이, 넓이 우선탐색 활용
 
 Section8 : Dynamic programming(동적계획법)
+
+ <img src="https://img.shields.io/badge/파이썬-3776AB?style=flat&logo=Python&logoColor=white"/>
